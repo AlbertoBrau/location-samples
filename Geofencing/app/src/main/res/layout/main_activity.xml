@@ -37,4 +37,7 @@
         android:layout_weight="1"
         android:onClick="removeGeofencesButtonHandler"
         android:text="@string/remove_geofences" />
+
+
+
 </LinearLayout>
